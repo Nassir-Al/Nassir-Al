@@ -1,9 +1,5 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. My Name is Nassir</h1>
 
-
-**Nassir-Al/Nassir-Al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my future to be a nice Webdeveloper!
 - 🌱 I’m currently learning to make a clean code
@@ -12,5 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Sport, Books and Friendship
 - 📫 How to reach me: Slack or Email
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: why Fishes are swimm in the Ocean? becouse they are Fishes
+- ⚡ Fun fact: why Fishes are swimming in the Ocean? becouse they are Fishes
 
+![grafik](https://user-images.githubusercontent.com/109968270/180806259-6e9055e1-cfaf-4ce3-a9c1-232b77f45012.png)
