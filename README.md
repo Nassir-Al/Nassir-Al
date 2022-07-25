@@ -2,7 +2,7 @@
 
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 
-- 🔭 I'm currently working on my future to be a nice Webdeveloper!
+- 🔭 I'm currently working on my future to be a web developer!
 - 🌱 I’m currently learning to make a clean code
 - 👯 I’m looking to collaborate on Slack and Github
 - 🤔 My hobbies are Sport, reading books and i love to educate myself
