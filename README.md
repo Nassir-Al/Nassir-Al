@@ -6,7 +6,6 @@
 > About me
 
 - 🔭 I'm currently working on my future to be a web developer!
-- 🌱 I’m currently learning to make a clean code
 - 👯 I’m looking to collaborate on Slack and Github
 - 🤔 My hobbies are Sport, reading books and i love to educate myself
 - ⚡ Fun fact: Believe it or not, but almost everything that is powered by electricity has coding behind it!
