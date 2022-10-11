@@ -5,9 +5,8 @@
 
 > About me
 
-- 🔭 I'm currently working on my future to be a web developer!
-- 👯 I’m looking to collaborate on Slack and Github
-- 🤔 My hobbies are Sport, reading books and i love to educate myself
+- 🔭 I'm a web developer from Hamburg!
+- 🤔 My hobbies are sport, reading books and educatimg myself
 - ⚡ Fun fact: Believe it or not, but almost everything that is powered by electricity has coding behind it!
 
 ![image](https://user-images.githubusercontent.com/109968270/180860073-2b9ed2f6-321c-4a52-a22e-a0761bf0f8b0.png)
